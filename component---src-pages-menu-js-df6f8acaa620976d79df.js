@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{itbR:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),r=n.n(t),i=(n("Wbzz"),n("7oih")),l=n("vrFN");a.default=function(){return r.a.createElement(i.a,null,r.a.createElement(l.a,{title:"Menu"}),r.a.createElement("h1",{className:"display-1"},"Dinner Menu"),r.a.createElement("p",{className:"lead"},"Food available for delivery or pick-up around dinner time."))}}}]);
-//# sourceMappingURL=component---src-pages-menu-js-df6f8acaa620976d79df.js.map
